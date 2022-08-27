@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(34, 128, 160);
+}
+.headimg {
+  height: 300px;
+  width: 100%;
+}
+.contantimg {
+  height: 200px;
+  width: 280px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.block {
+  display: flex;
+}
+.header {
+  margin: 10px;
+}
+.header2 {
+  margin: 10px;
+}
+.para {
+  margin: 10px;
+}
